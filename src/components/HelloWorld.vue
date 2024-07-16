@@ -1,4 +1,12 @@
 <template>
+  <p class="font-medium 2xl:px-20 bg-slate-500">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit suspendisse.
+  </p>
+  <input
+    type="text"
+    placeholder="Type to search..."
+    class="w-full xl:w-125 bg-transparent pr-4 pl-9 focus:outline-none"
+  />
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
