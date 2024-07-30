@@ -1,0 +1,27 @@
+{
+  "labels": {
+    "email": "E-mail",
+    "password": "Senha",
+    "signin": "Entrar",
+    "sign_title": "Evice Tech",
+    "login": {
+      "sign_title": "Evice Tech",
+      "title": "Logar",
+      "dont_have_account": "Não tem conta?",
+      "sigin_google": "Faça login no Google"
+    }
+  },
+  "nav": {
+    "home": "Casa",
+    "about": "Sobre"
+  },
+  "home": {
+    "header": "Welcome to the Vue 3 I18n tutorial!",
+    "created_by": "This tutorial was brought to you by {company}.",
+    "num_visits": "This page hasn't been visited 🙁 | This page has been visited {n} time | This page has been visited {n} times"
+  },
+  "about": {
+    "header": "About us",
+    "donations": "Donations raised: {donations}"
+  }
+}
