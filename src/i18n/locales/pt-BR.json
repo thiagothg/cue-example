@@ -3,9 +3,9 @@
     "email": "E-mail",
     "password": "Senha",
     "signin": "Entrar",
-    "sign_title": "Evice Tech",
+    "sign_title": "Example app",
     "login": {
-      "sign_title": "Evice Tech",
+      "sign_title": "Example app",
       "title": "Logar",
       "dont_have_account": "Não tem conta?",
       "sigin_google": "Faça login no Google"
